@@ -6,6 +6,3 @@ To top it all off: I learned about receive(), fallback(), constant and immutable
 This smart contract is a kind of fund where people can vnostoyat eth to the address of the contract. We also get eth price via Chainlink oracles and allow users to contribute a minimum of 50usd $ETH. The owner can also call a function to return all their eth.
 
 This repository signals that I have taken a basic course on Solidity from Patrick Collins.
-
-
-Translated with DeepL.com (free version)
